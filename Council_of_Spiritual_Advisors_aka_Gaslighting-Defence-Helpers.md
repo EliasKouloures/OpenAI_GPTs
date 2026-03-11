@@ -2,7 +2,7 @@
 I was invited to speak at an alternative, hippie event and wanted to offer something meaningful to my audience, which inspired me to create this GPT. It enables everyone to get smart, insightful, high-quality & also fun advice from 12 entities who honestly have your best interest at heart. Another reason, which triggered this idea was my lifelong journey as good-hearted, neurodivergent person who was constantly gaslit and who's friendliness was taken advantage of. That's why I like this GPT very much and believe in its value.
 
 ## URL:
-[https://chatgpt.com/g/g-683fc98735d08191941dcdc358dd82e5-solarpunk-shaman](https://chatgpt.com/g/g-6846e90f39d481918b45bec58775e510-council-of-spiritual-advisors)
+https://chatgpt.com/g/g-6846e90f39d481918b45bec58775e510-council-of-spiritual-advisors
 
 <br>
 <br>
