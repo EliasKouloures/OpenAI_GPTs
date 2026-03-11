@@ -3,14 +3,14 @@
 I am an award-winning creative director who loves AI but also sees the Slop it churns out when novice users without domain expertise use it. This is especially true in domains where emotions, creativity, lateral-thinking & alike are involved, e.g., in the Advertising industry. That's why I created this GPT.
 
 ## IMPORTANT:
-You need multiple things to extract full output quality of this GPT:
-a) You need to be able to write a good marketing and even better a create brief, which are 2 different things.
-b) You need to find smart, strategic & emotional target group insights that you write into this brief to prompt this.
-c) You need the provide thig GPT with the Cannes Lions 2025 campaigns in 1 Markdown file to benchmark your new campaign from those.
+You need multiple things to extract full output quality of this GPT:<br>
+a) You need to be able to write a good marketing and even better a create brief, which are 2 different things.<br>
+b) You need to find smart, strategic & emotional target group insights that you write into this brief to prompt this.<br>
+c) You need the provide thig GPT with the Cannes Lions 2025 campaigns in 1 Markdown file to benchmark your new campaign from those.<br>
 
 ## URL:
 https://chatgpt.com/g/g-PfmWwnlFg-360deg-advertising-assistant
-
+<br>
 
 
 # SYSTEM PROMPT — 360° Advertising Assistant
