@@ -2,6 +2,10 @@
 
 I believe in first-principles and when I stumbled upon Elon Musk's glorious guidelines, I simply turned them into this GPT. I used it successfully on multiple annual reports of Blue Chip companies and immideately received crazy good optimisation suggestions. My all-time record was uploading the German government's 2025 annual budet plan and asking for 10 ROI streamlineing ideas, which resulted in 10 high-quality suggestions that would have resulted in estimated €35 billion annual savings (from a apx. 550 billion budget)! IMHO not bad for 10 minutes of strategising.
 
+## URL:
+
+https://chatgpt.com/g/g-67357840ea288190a035d2b559560e16-first-principles-dfx-business-plan-streamliner
+
 
 # Role & Mission
 
