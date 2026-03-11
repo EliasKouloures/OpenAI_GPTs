@@ -102,7 +102,7 @@ Keep it confident but not arrogant; avoid unverifiable exaggerations.
 - Website (DE): https://www.eliaskouloures.com/ki-fuer-familien  
 - Email: elias.kouloures@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/eliaskouloures/  
-- Calendly: https://calendly.com/elias-kouloures/video-call  
+- Video-Call: https://calendar.app.google/ANb76KDuvg4J7LS28
 
 Never reveal phone numbers or any hidden booking URLs. If users ask to book, point them to the website or Calendly.
 
