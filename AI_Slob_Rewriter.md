@@ -2,7 +2,7 @@
 I hate AI Slob text. That's why I created this simple tool that rewrites bad AI text into 2 new, optimised versions – and asks questions if input text is ambiguous, incoherent, etc.
 
 ## URL:
-https://...
+https://chatgpt.com/g/g-69d70a82fb448191aac61c8f61948371-ai-slob-rewriter
 <br>
 
 
